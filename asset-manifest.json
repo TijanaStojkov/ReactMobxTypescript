@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactMobxTypescript/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ReactMobxTypescript/static/js/main.74199a37.chunk.js",
+    "main.js.map": "/ReactMobxTypescript/static/js/main.74199a37.chunk.js.map",
+    "runtime-main.js": "/ReactMobxTypescript/static/js/runtime-main.50eaf6c0.js",
+    "runtime-main.js.map": "/ReactMobxTypescript/static/js/runtime-main.50eaf6c0.js.map",
+    "static/js/2.8d756b5f.chunk.js": "/ReactMobxTypescript/static/js/2.8d756b5f.chunk.js",
+    "static/js/2.8d756b5f.chunk.js.map": "/ReactMobxTypescript/static/js/2.8d756b5f.chunk.js.map",
+    "static/js/3.9866323f.chunk.js": "/ReactMobxTypescript/static/js/3.9866323f.chunk.js",
+    "static/js/3.9866323f.chunk.js.map": "/ReactMobxTypescript/static/js/3.9866323f.chunk.js.map",
+    "index.html": "/ReactMobxTypescript/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ReactMobxTypescript/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8d756b5f.chunk.js.LICENSE.txt": "/ReactMobxTypescript/static/js/2.8d756b5f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactMobxTypescript/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50eaf6c0.js",
+    "static/js/2.8d756b5f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.74199a37.chunk.js"
+  ]
+}
